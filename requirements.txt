@@ -1,0 +1,11 @@
+numpy
+opencv-python
+gymnasium
+torch
+stable-baselines3
+bettercam; sys_platform == "win32"
+pydirectinput; sys_platform == "win32"
+pytesseract
+Pillow
+# Optional after training custom detection weights:
+# pip install ultralytics

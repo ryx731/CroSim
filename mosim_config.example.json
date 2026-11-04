@@ -1,0 +1,66 @@
+{
+  "tesseract_cmd": "",
+  "ocr_mode": "fixed",
+  "ocr_threshold": 150,
+  "ocr_invert": false,
+  "ocr_scale": 3,
+  "setup_go_key": "]",
+  "setup_skip_key": "[",
+  "setup_voice": true,
+  "monitor_index": 0,
+  "game_window_title": "MoSim",
+  "score_region": [
+    0.365,
+    0.905,
+    0.455,
+    0.965
+  ],
+  "hopper_region": [
+    0.45,
+    0.48,
+    0.57,
+    0.6
+  ],
+  "hub_region": [
+    0.03,
+    0.86,
+    0.2,
+    0.99
+  ],
+  "fuel_hsv_lower": [
+    20,
+    100,
+    100
+  ],
+  "fuel_hsv_upper": [
+    35,
+    255,
+    255
+  ],
+  "hub_hsv_lower": [
+    20,
+    90,
+    120
+  ],
+  "hub_hsv_upper": [
+    40,
+    255,
+    255
+  ],
+  "motion_diff_threshold": 1.0,
+  "hub_active_coverage": 0.06,
+  "hub_calibrated": false,
+  "hub_lowres_coverage": 0.06,
+  "lowres_fill_gain": 1.0,
+  "camera_tap_hold_seconds": 0.05,
+  "tap_hold_seconds": 0.05,
+  "match_auto_seconds": 20.0,
+  "match_pause_seconds": 3.0,
+  "match_transition_seconds": 10.0,
+  "match_shift_seconds": 25.0,
+  "match_shift_count": 4,
+  "match_endgame_seconds": 30.0,
+  "blue_active_in_odd_shifts": true,
+  "trust_schedule": true,
+  "demo_weights": {}
+}
